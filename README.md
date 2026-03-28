@@ -75,25 +75,6 @@ Goal: uncover whether sentiment impacts profitability and identify patterns for 
 
 ---
 
-
----
-
-## 🏗️ Project Structure
-
-```
-Data-Science-Intern-task/
-│── historical_data.csv
-│── fear_greed_index.csv
-│── main1.py
-│── main.py
-│── merged_output.csv
-│── sentiment_summary.csv
-│── trader_risk_metrics.csv
-│── model_dataset.csv
-```
-
----
-
 ## ▶️ How to Run
 
 ### 1. Install dependencies
